@@ -1,0 +1,35 @@
+package proyecto;
+
+public class actividad4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println ("Grupo 1: " + "\n");
+		int num1 = 16;
+		int num2 = 2;
+		System.out.println ("Suma = " + (num1 + num2) + "\n" + "Resta = "+ (num1-num2) + "\n" + "Multiplicación = "+ (num1*num2) + "\n" + "División = "+ (num1/num2)+ "\n"+ "Resto = "+ (num1 % num2));
+		System.out.println ("---------------");
+		
+		
+		System.out.println ("Grupo 2: " + "\n");
+		int num3 = 10;
+		int num4 = 3;
+		System.out.println ("Suma = " + (num3 + num4) + "\n" + "Resta = "+ (num3-num4) + "\n" + "Multiplicación = "+ (num3*num4) + "\n" + "División = "+  (num3/num4)+ "\n"+ "Resto = "+  (num3 % num4));
+	    System.out.println ("---------------");
+		
+	    System.out.println ("Grupo 3: " + "\n");
+		float num5 = 3.7f;
+		float num6 = 1.2f;
+		System.out.println ("Suma = " +  (num5 + num6) + "\n" + "Resta = "+ (num5-num6) + "\n" + "Multiplicación = "+  (num5*num6) + "\n" + "División = "+  (num5/num6)+ "\n"+ "Resto = "+  (num5 % num6));
+		System.out.println ("---------------");
+		
+		System.out.println ("Grupo 4: " + "\n");
+		float num7 = 3.7f;
+		int num8 = 2;
+		System.out.println ( "Suma = " +  (num7 + num8) + "\n" + "Resta = "+ (num7-num8) + "\n" + "Multiplicación = "+ (num7*num8) + "\n" + "División = "+  (num7/num8)+ "\n"+ "Resto = "+ (num7 % num8));
+	
+	}
+	
+	
+}
